@@ -1,12 +1,14 @@
-{
-  "hasNext": true,
-  "items": [
-    { "name":"Erikles" },
-    { "name":"Guilherme" }
-  ],
-  "_messages": [{
-    "code": "INFO",
-    "message": "Uma mensagem informativa.",
-    "detailedMessage": "Detalhes relativos a mensagem."
-  }]
+{ 
+  "get":{
+    "hasNext": true,
+    "items": [
+      { "name":"Erikles" },
+      { "name":"Guilherme" }
+    ],
+    "_messages": [{
+      "code": "INFO",
+      "message": "Uma mensagem informativa.",
+      "detailedMessage": "Detalhes relativos a mensagem."
+    }]
+  }
 }
