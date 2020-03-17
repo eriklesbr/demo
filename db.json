@@ -1,16 +1,1 @@
-{"get":     "items":[
-            {"name":"Robert Bruce Banner"},
-            {"name":"Peter Parker"},
-            {"name":"Tony Stark"},
-            {"name":"Kakaroto"},
-            {"name":"Gohan"},
-            {"name":"Steve Rogers"},
-            {"name":"Natasha Romanova"},
-            {"name":"Nicholas Joseph Fury"},
-            {"name":"Clint Barton"},
-            {"name":"Thor"}
-         ],
-         "total":16,
-         "hasNext":true
-
-}
+{"get":{"items":[{"name":"Robert Bruce Banner"},{"name":"Peter Parker"},{"name":"Tony Stark"},{"name":"Kakaroto"},{"name":"Thor"}],"total":16,"hasNext":true}
