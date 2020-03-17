@@ -1,7 +1,4 @@
-{
-   "get":
-       {
-         "items":[
+{"get":     "items":[
             {"name":"Robert Bruce Banner"},
             {"name":"Peter Parker"},
             {"name":"Tony Stark"},
@@ -15,5 +12,5 @@
          ],
          "total":16,
          "hasNext":true
-      }
+
 }
