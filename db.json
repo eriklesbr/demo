@@ -1,13 +1,12 @@
 {
-  "get":[{
-    "items":[
-      {"name":"Robert Bruce Banner"},
-      {"name":"Peter Parker"},
-      {"name":"Tony Stark"},
-      {"name":"Kakaroto"},
-      {"name":"Thor"}
-    ],
-    "total":16,
-    "hasNext":true
+  hasNext: true,
+  items: [
+    { "name":"Erikles" },
+    { "name":"Guilherme" }
+  ],
+  _messages: [{
+    code: "INFO",
+    message: "Uma mensagem informativa.",
+    detailedMessage: "Detalhes relativos a mensagem."
   }]
 }
