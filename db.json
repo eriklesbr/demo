@@ -1,6 +1,8 @@
 {
-   "items": [
-     { "nome": "Erikles", "apelido": "demir" },
-     { "nome": "Guilherme", "apelido": "bigode" }
+   "get": [
+      "items": [
+        { "nome": "Erikles", "apelido": "demir" },
+        { "nome": "Guilherme", "apelido": "bigode" }
+      ]
    ]
 }
