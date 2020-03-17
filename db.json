@@ -1,5 +1,5 @@
 {
-   "get":[
+   "get":
       {
          "items":[
             {"name":"Robert Bruce Banner"},
@@ -16,5 +16,4 @@
          "total":16,
          "hasNext":true
       }
-   ]
 }
