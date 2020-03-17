@@ -1,5 +1,4 @@
 {
-   hasNext: true,
    items: [
      { "nome": "Erikles", "apelido": "demir" },
      { "nome": "Guilherme", "apelido": "bigode" }
