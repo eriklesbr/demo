@@ -1,6 +1,6 @@
 { 
   "cidade":{
-    "hasNext": true,
+    "hasNext": false,
     "items": [
       { "codigo":"2059", "cidade":"Licínio de Almeida", "uf":"BA" },
       { "codigo":"2030", "cidade":"Caculé", "uf":"BA" },
