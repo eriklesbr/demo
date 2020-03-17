@@ -1,12 +1,12 @@
 {
-  hasNext: true,
-  items: [
+  "hasNext": true,
+  "items": [
     { "name":"Erikles" },
     { "name":"Guilherme" }
   ],
-  _messages: [{
-    code: "INFO",
-    message: "Uma mensagem informativa.",
-    detailedMessage: "Detalhes relativos a mensagem."
+  "_messages": [{
+    "code": "INFO",
+    "message": "Uma mensagem informativa.",
+    "detailedMessage": "Detalhes relativos a mensagem."
   }]
 }
