@@ -1,9 +1,10 @@
 { 
-  "get":{
+  "cidade":{
     "hasNext": true,
     "items": [
-      { "name":"Erikles" },
-      { "name":"Guilherme" }
+      { "codigo":"2059", "cidade":"Licínio de Almeida", "uf":"BA" },
+      { "codigo":"2030", "cidade":"Caculé", "uf":"BA" },
+      { "codigo":"2000", "cidade":"Belo Horizonte", "uf":"MG" }
     ],
     "_messages": [{
       "code": "INFO",
