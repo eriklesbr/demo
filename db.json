@@ -1,6 +1,6 @@
 {
     "estadocivil": {
-        "items": [
+        [
             {"value": "CASADO(A)"},
             {"value": "SOLTEIRO(A)"},
             {"value": "VIUVO(A)"},
