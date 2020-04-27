@@ -6,8 +6,7 @@
         {"value": "AMASIADO(A)"},
         {"value": "DESQUITADO(A)"}
     ],
-    "tipoOperadora":
-    [
+    "tipoOperadora": [
         {"value": "TIM"},
         {"value": "VIVO"},
         {"value": "CLARO"},
