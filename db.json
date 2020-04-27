@@ -1,15 +1,71 @@
-{ 
-  "cidade":{
-    "hasNext": false,
-    "items": [
-      { "codigo":"2059", "cidade":"Licínio de Almeida", "uf":"BA" },
-      { "codigo":"2030", "cidade":"Caculé", "uf":"BA" },
-      { "codigo":"2000", "cidade":"Belo Horizonte", "uf":"MG" }
+{
+    "estadoCivil":
+    [
+        {"value": "CASADO(A)"},
+        {"value": "SOLTEIRO(A)"},
+        {"value": "VIUVO(A)"},
+        {"value": "AMASIADO(A)"},
+        {"value": "DESQUITADO(A)"}
     ],
-    "_messages": [{
-      "code": "INFO",
-      "message": "Uma mensagem informativa.",
-      "detailedMessage": "Detalhes relativos a mensagem."
-    }]
-  }
+
+    "tipoOperadora":
+    [
+        {"value": "TIM"},
+        {"value": "VIVO"},
+        {"value": "CLARO"},
+        {"value": "OI"},
+        {"value": "EMBRATEL"},
+        {"value": "NBT"},
+        {"value": "OUTROS"}
+    ],
+
+    "crt":
+    [
+        {"label": "1 - Simples Nacional", "value": 1},
+        {"label": "2 - Simples Nacional - Excesso de Receita Bruta", "value": 2},
+        {"label": "3 - Regime Normal", "value": 3}
+    ],
+
+    "tipo_cliente":
+    [
+        {"label": "Indústria", "value": 1},
+        {"label": "Distribuidora", "value": 2},
+        {"label": "Distribuidora e Varejo", "value": 3},
+        {"label": "Varejo", "value": 4},
+        {"label": "Produtor Rural", "value": 5},
+        {"label": "Consumidor Final", "value": 6}
+    ],
+
+    "aquisitivo_renda":
+    [
+        {"label": "Até 1 Salário Mínimo", "value": 1},
+        {"label": "De 1 à 2 Salários Mínimos", "value": 2},
+        {"label": "De 5 à 10 Salários Mínimos", "value": 3},
+        {"label": "Acima de 10 Salários", "value": 4}
+    ],
+
+    "situacao":
+    [
+        {"label": "APROVADO", "value": 1},
+        {"label": "EM OBSERVAÇÃO", "value": 2},
+        {"label": "BLOQUEADO", "value": 3},
+        {"label": "INATIVO", "value": 4},
+        {"label": "SERASA/SPC", "value": 5}
+    ],
+
+    "sexo":
+    [
+        {"label": "Masculino", "value": "M"},
+        {"label": "Feminino", "value": "F"},
+        {"label": "Indefinido", "value": "I"},
+    ],
+
+    "tipoTel":
+    [
+        {"value": "Casa"},
+        {"value": "Cobrança"},
+        {"value": "Trabalho"},
+        {"value": "Outros"}
+    ]
+
 }
